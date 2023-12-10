@@ -57,12 +57,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Data analyst with 4+ years of experience interpreting and analyzing data 
+      to drive successful business solutions. Proficient knowlegde in statistics,
+      mathematics and analytics.
 education:
     title: Education
     info:
@@ -92,43 +89,38 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Researcher, Data Analyst
+        time: 2022 - Present
+        company: WeNet UC
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          The international project WeNet (https://www.internetofus.eu/), 
+          funded by the European Commission, aims to harness technology to leverage
+          the diversity of social heritages, experiences, and interests within a 
+          community for the benefit of all. During my involvement in this project, 
+          we designed, developed, and evaluated a vertical application (https://sos-tutoria-uc-web.vercel.app/)
+          for academic assistance among students. As a result, two papers were written and presented at an international level.
+          Tools: KNIME, MongoDB, Microsoft Excel, Microsoft Word, Tableau, HTML, Figma, Notion, Latex.
+            - Conducted feasibility analysis and defined specifications for the development of a student assistance application.
+            - Developed and integrated the application into the WeNet international platform.
+            - Implemented and analyzed qualitative and quantitative evaluation methods, including Focus Group and Exit Survey.
+      - role: Data Analyst, BI
+        time: 2019 - 2023
+        company: Electroban S.A.E.C.A.
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I led the BI department at Electroban, a significant retail sector company, where my key contributions were in the 
+          creation and maintenance of managerial and operational dashboards for the areas of Collections, Purchasing, Sales, 
+          and Credit Risk.
+          Tools: QlikView, Qlik Sense, Power BI, KNIME, SQL Server, Oracle, Microsoft Excel, Microsoft Word, Google Analytics, Facebook Business.
+            - QlikView and Qlik Sense server maintenance (Example: server upgrade, free up disk space, resource allocation if necessary).
+            - Develop and maintenance dashboards in QlikView and Qlik Sense.
+            - QlikView and Qlik Sense server license management.
+            - Training users on QlikView and Qlik Sense dashboards.
+            - Training users on the use of Power BI Desktop and Power BI online from the Office 365 license.
+            - Extraction and analysis of data from SQL Server and Oracle databases.
+            - Preparation of requirement documents for the implementation of internal development projects or projects from suppliers.
+            - Analysis of technological requirements for internal clients (for the different departments of the company).
+            - Dialogue with service providers and analysis of the implementation of new technologies.
+            _ Analysis of Google Analytics metrics and social media data in Facebook Analytics.
 
 certifications:
       title: Certifications
