@@ -63,28 +63,16 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Diploma in Data Analysis
+        university: University Comunera
+        time: 2021 - 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+            Tools: Power BI, KNIME, SQL Server, Microsoft Excel.
+      - degree: Software Engineer and Bachelor of Science in Computer Science
+        university: Catholic University Nuestra Señora de la Asunción
+        time: 2014 - 2019
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            Tools: Tableau, KNIME, Microsoft Excel, Microsoft Word, Python, Mongo DB, PostgreSQL, Power Designer.
 
 experiences:
     title: Experiences
@@ -120,7 +108,7 @@ experiences:
             - Preparation of requirement documents for the implementation of internal development projects or projects from suppliers.
             - Analysis of technological requirements for internal clients (for the different departments of the company).
             - Dialogue with service providers and analysis of the implementation of new technologies.
-            _ Analysis of Google Analytics metrics and social media data in Facebook Analytics.
+            - Analysis of Google Analytics metrics and social media data in Facebook Analytics.
 
 certifications:
       title: Certifications
