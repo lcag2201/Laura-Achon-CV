@@ -8,15 +8,15 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Laura Achon
+    name: Laura Achón
     tagline: Data Analyst
     avatar: memoji.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: laura.achon@hotmail.com
     phone: 685 326 288
-    timezone: Spain/Madrid Timezone
-    citizenship: paraguayan
+    timezone: Europe/Madrid Timezone
+    citizenship: #paraguayan
     website: #lcag2201.github.io/Laura-Achon-CV/ #blog.webjeda.com #do not add http://
     linkedin: lauraachong
     xing: #alandoe
