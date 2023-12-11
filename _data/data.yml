@@ -139,7 +139,7 @@ certifications:
           credentialurl: www.kagle.com
           credentialname: Certificate
           details: |
-            Tool: Figma
+            Tool: Python
             
         - name: UX Design Basic Concepts for Beginners
           start: 2022
