@@ -225,23 +225,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: QlikView & Qlik Sense
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Excel & Word
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: PowerBI & Tableau
+        level: 80%
 
-      - name: HTML5 & CSS
+      - name: PL & SQL
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Python
+        level: 80%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: MongoDB
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
