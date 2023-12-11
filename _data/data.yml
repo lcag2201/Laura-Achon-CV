@@ -144,14 +144,21 @@ certifications:
           credentialurl: www.github.com
           credentialname: Github
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            This course is an introduction to QlikView Desktop for Developers. 
+            Upon completion, you will have acquired knowledge in the following areas: 
+            - The QlikView environment
+            - Development process methodology in QlikView
+            - Deployment
+            - Introduction to data and script
+            - Basic script syntax
+            - Loading data from the database
+            - Basic data modeling and table viewer
+            - Script structuring
+            - Basic data transformation
+            - Incorporating text data
+            - Generating data in the QlikView load script
+            - Considerations regarding script, circular references, and synthetic key tables
+            - Fundamental design principles for developers
 
 projects:
     title: Projects
