@@ -115,10 +115,10 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
+        - name: Basic SQL Server Course and Introduction to Power BI
+          start: 2023
+          end: 2023
+          organization: Udemy
           credentialid: 111-222
           credentialurl: www.google.com
           credentialname: Google
@@ -136,10 +136,10 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
+        - name: Trained in QlikView Developer I and QlikView Developer II
           start: 2019
           end:
-          organization: Microsoft
+          organization: Data Analyst Richard Alcaraz
           credentialid: 111-222
           credentialurl: www.github.com
           credentialname: Github
