@@ -117,10 +117,10 @@ certifications:
       list:
         - name: Basic SQL Server Course and Introduction to Power BI
           start: 2023
-          end: 2023
+          end:
           organization: Udemy
           credentialid: 111-222
-          credentialurl: https://drive.google.com/file/d/10pnY07ON88Tk1ksWjBnfZ0TDTMTqLEc1/view?usp=sharing
+          credentialurl: #https://drive.google.com/file/d/10pnY07ON88Tk1ksWjBnfZ0TDTMTqLEc1/view?usp=sharing
           credentialname: Certificado
           details: |
             This course is an introduction to SQL and PowerBI.
@@ -135,7 +135,7 @@ certifications:
           end:
           organization: Data Analyst Richard Alcaraz
           credentialid: 111-222
-          credentialurl: https://drive.google.com/file/d/1hqjZ4hg95g485HsEB4hE5jpSCHzj5wr0/view?usp=sharing
+          credentialurl: #https://drive.google.com/file/d/1hqjZ4hg95g485HsEB4hE5jpSCHzj5wr0/view?usp=sharing
           credentialname: Certificado
           details: |
             This course is an introduction to QlikView Desktop for Developers. 
