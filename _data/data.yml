@@ -120,7 +120,7 @@ certifications:
           end:
           organization: Udemy
           credentialid: #111-222
-          credentialurl: #https://drive.google.com/file/d/10pnY07ON88Tk1ksWjBnfZ0TDTMTqLEc1/view?usp=sharing
+          credentialurl: https://drive.google.com/file/d/10pnY07ON88Tk1ksWjBnfZ0TDTMTqLEc1/view?usp=sharing
           credentialname: Certificado
           details: |
             This course is an introduction to SQL and PowerBI.
@@ -135,7 +135,7 @@ certifications:
           end:
           organization: Data Analyst Richard Alcaraz
           credentialid: #111-222
-          credentialurl: #https://drive.google.com/file/d/1hqjZ4hg95g485HsEB4hE5jpSCHzj5wr0/view?usp=sharing
+          credentialurl: https://drive.google.com/file/d/1hqjZ4hg95g485HsEB4hE5jpSCHzj5wr0/view?usp=sharing
           credentialname: Certificado
           details: |
             This course is an introduction to QlikView Desktop for Developers. 
@@ -207,15 +207,15 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: SOS TUTORIA UC: A Diversity Aware Application for Tutor Recommendation Based on Competence and Personality
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Achón, L., De Souza, A., Hume, A., Cernuzzi, L.
+        conference: CLEI, 2023
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "SOS TUTORIA UC: A Diversity Aware Application for Tutor Recommendation Based on Competence and Personality"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Achón, L., De Souza, A., Hume, A., Chenu Abente, R., Gotzen, A., Cernuzzi, L.
+        conference: "CEUR Workshop Proceedings. CEUR Workshop Proceedings 3456, 243–247 (2023)"
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
