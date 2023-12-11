@@ -123,19 +123,13 @@ certifications:
           credentialurl: https://drive.google.com/file/d/10pnY07ON88Tk1ksWjBnfZ0TDTMTqLEc1/view?usp=sharing
           credentialname: Certificado
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+            This course is an introduction to SQL and PowerBI.
+            Upon completion, I have acquired knowledge in the following areas:
+            - Make SQL querys
+            - Create Store Procedure
+            - Create Tables
+            - CRUD for Store Procedure
+            - PowerBI
         - name: Trained in QlikView Developer I and QlikView Developer II
           start: 2019
           end:
@@ -145,7 +139,7 @@ certifications:
           credentialname: Certificado
           details: |
             This course is an introduction to QlikView Desktop for Developers. 
-            Upon completion, you will have acquired knowledge in the following areas: 
+            Upon completion, I have acquired knowledge in the following areas: 
             - The QlikView environment
             - Development process methodology in QlikView
             - Deployment
