@@ -161,7 +161,7 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Tableau
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
@@ -182,19 +182,18 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title: OSS Contributions
+    title: Teaching experience #OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Experience teaching and grading university students in the Systems Analysis
+      program at Nuestra Señora de la Asunción Catholic University from January to December 2018.
     contributions:
-      - title: Tempo
+      - title: Python
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Tutored a visually impaired university student in Python to help them understand and pass their courses."
 
-      - title: Atom
+      - title: Visual Basic
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Tutored university students in Visual Basic."
 
       - title: Delta
         link: "#"
