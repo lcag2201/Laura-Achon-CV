@@ -157,11 +157,11 @@ certifications:
 projects:
     title: Project
     intro: >
-      *
+      Example dashboards
     assignments:
       - title: Tableau
         link: "https://public.tableau.com/app/profile/l.a1767/vizzes"
-        tagline: "Example dashboards created using the Tableau Public tool"
+        tagline: "Created using the Tableau Public tool"
 
 oss:
     title: Teaching experience #OSS Contributions
