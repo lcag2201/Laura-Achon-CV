@@ -163,7 +163,7 @@ projects:
     assignments:
       - title: Tableau
         link: "https://public.tableau.com/app/profile/l.a1767/vizzes"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Example dashboards created using the Tableau Public tool"
 
       - title: DevStudio
         link: "#"
