@@ -155,11 +155,9 @@ certifications:
             - Fundamental design principles for developers
 
 projects:
-    title: Projects
+    title: Project
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      *
     assignments:
       - title: Tableau
         link: "https://public.tableau.com/app/profile/l.a1767/vizzes"
@@ -184,15 +182,15 @@ publications:
     intro: |
       Publications derived from the International Project WeNet: Internet of Us.
     papers:
-      - title: SOS TUTORIA UC A Diversity Aware Application for Tutor Recommendation Based on Competence and Personality
+      - title: SOS TUTORIA UC A Diversity-Aware Application for Tutor Recommendation Based on Competence and Personality
         link: "#"
         authors: Achón, L., De Souza, A., Hume, A., Cernuzzi, L.
         conference: "XLIX Latin American Computer Conference (CLEI), 2023, La Paz Bolivia , October 2023 (to be published)"
 
-      - title: "A Diversity Aware Application for Tutor Recommendation Based on Competence and Personality (Short Paper)"
-        link: "#"
+      - title: "A Diversity-Aware Application for Tutor Recommendation Based on Competence and Personality (Short Paper)"
+        link: "https://ceur-ws.org/Vol-3456/short5-8.pdf"
         authors: Achón, L., De Souza, A., Hume, A., Chenu Abente, R., Gotzen, A., Cernuzzi, L.
-        conference: "Workshop on Diversity-Aware Hybrid Human-Artificial Intelligence (HHAI), Munich, June 2023: 243-247. https://ceur-ws.org/Vol-3456/short5-8.pdf"
+        conference: "Workshop on Diversity-Aware Hybrid Human-Artificial Intelligence (HHAI), Munich, June 2023: 243-247."
 
       - title: A Diversity-Aware Recommendation System for Tutoring
         link: "#"
