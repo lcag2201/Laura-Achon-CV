@@ -120,8 +120,8 @@ certifications:
           end: 2023
           organization: Udemy
           credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          credentialurl: https://drive.google.com/file/d/10pnY07ON88Tk1ksWjBnfZ0TDTMTqLEc1/view?usp=sharing
+          credentialname: Certificado
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
@@ -141,8 +141,8 @@ certifications:
           end:
           organization: Data Analyst Richard Alcaraz
           credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          credentialurl: https://drive.google.com/file/d/1hqjZ4hg95g485HsEB4hE5jpSCHzj5wr0/view?usp=sharing
+          credentialname: Certificado
           details: |
             This course is an introduction to QlikView Desktop for Developers. 
             Upon completion, you will have acquired knowledge in the following areas: 
