@@ -210,17 +210,17 @@ publications:
       - title: SOS TUTORIA UC A Diversity Aware Application for Tutor Recommendation Based on Competence and Personality
         link: "#"
         authors: Achón, L., De Souza, A., Hume, A., Cernuzzi, L.
-        conference: CLEI, 2023
+        conference: "XLIX Latin American Computer Conference (CLEI), 2023, La Paz Bolivia , October 2023 (to be published)"
 
-      - title: "SOS TUTORIA UC A Diversity Aware Application for Tutor Recommendation Based on Competence and Personality"
+      - title: "A Diversity Aware Application for Tutor Recommendation Based on Competence and Personality (Short Paper)"
         link: "#"
         authors: Achón, L., De Souza, A., Hume, A., Chenu Abente, R., Gotzen, A., Cernuzzi, L.
-        conference: "CEUR Workshop Proceedings. CEUR Workshop Proceedings 3456, 243–247 (2023)"
+        conference: "Workshop on Diversity-Aware Hybrid Human-Artificial Intelligence (HHAI), Munich, June 2023: 243-247. https://ceur-ws.org/Vol-3456/short5-8.pdf"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: A Diversity-Aware Recommendation System for Tutoring
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Achón, L., De Souza, A., Hume, A., Cernuzzi, L.
+        conference: "Special Issue on “Human‐Aware Artificial Intelligence” for the AI Communications: The European Journal on AI"
 
 skills:
     title: Skills &amp; Proficiency
