@@ -165,22 +165,6 @@ projects:
         link: "https://public.tableau.com/app/profile/l.a1767/vizzes"
         tagline: "Example dashboards created using the Tableau Public tool"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 oss:
     title: Teaching experience #OSS Contributions
     intro: >
@@ -195,16 +179,10 @@ oss:
         link: "#"
         tagline: "Tutored university students in Visual Basic."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Publications derived from the International Project WeNet: Internet of Us.
     papers:
       - title: SOS TUTORIA UC A Diversity Aware Application for Tutor Recommendation Based on Competence and Personality
         link: "#"
