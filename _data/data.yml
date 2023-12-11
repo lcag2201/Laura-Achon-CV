@@ -17,7 +17,7 @@ sidebar:
     phone: 685 326 288
     timezone: Europe/Madrid Timezone
     citizenship: #paraguayan
-    website: #lcag2201.github.io/Laura-Achon-CV/ #blog.webjeda.com #do not add http://
+    website: https://public.tableau.com/app/profile/l.a1767/vizzes #blog.webjeda.com #do not add http://
     linkedin: lauraachong
     xing: #alandoe
     github: lcag2201
@@ -162,7 +162,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Tableau
-        link: "#hook"
+        link: "https://public.tableau.com/app/profile/l.a1767/vizzes"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
