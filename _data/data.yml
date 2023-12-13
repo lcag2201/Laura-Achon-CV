@@ -115,6 +115,31 @@ experiences:
 certifications:
       title: Certifications
       list:
+        - name: Statistics for Data Science and Business Analysis
+          start: 2023
+          end:
+          organization: Udemy
+          credentialid: #111-222
+          credentialurl: www.udemy.com
+          credentialname: Present
+          details: |
+            This course I am learning fundamental skills from Statistic that will enable me
+            to understand complicated statistical analysis directly applicable to real-life situations.
+            Upon completion, I will acquire knowledge in the following areas:
+            - Understand the fundamentals of statistics
+            - Learn how to work with different types of data
+            - How to plot different types of data
+            - Calculate the measures of central tendency, asymmetry, and variability
+            - Calculate correlation and covariance
+            - Distinguish and work with different types of distributions
+            - Estimate confidence intervals
+            - Perform hypothesis testing
+            - Make data driven decisions
+            - Understand the mechanics of regression analysis
+            - Carry out regression analysis
+            - Use and understand dummy variables
+            - Understand the concepts needed for data science even with Python and R
+            
         - name: Basic SQL Server Course and Introduction to Power BI
           start: 2023
           end:
