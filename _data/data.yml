@@ -229,7 +229,7 @@ publications:
       Publications derived from the International Project WeNet: Internet of Us.
     papers:
       - title: SOS TUTORIA UC A Diversity-Aware Application for Tutor Recommendation Based on Competence and Personality
-        link: "#"
+        link: "https://doi.org/10.1109/CLEI60451.2023.10346100"
         authors: Achón, L., De Souza, A., Hume, A., Cernuzzi, L.
         conference: "XLIX Latin American Computer Conference (CLEI), 2023, La Paz Bolivia , October 2023 (to be published)"
 
